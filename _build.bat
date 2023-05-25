@@ -1,0 +1,1 @@
+pyinstaller --onedir --onefile --noconsole --noconfirm --clean --icon=dev/icon.ico main.py
